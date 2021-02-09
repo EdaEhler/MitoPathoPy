@@ -1,5 +1,7 @@
 # MitoPathoPy
-Search for potential pathological mutations in your human full mtDNA sequence
+Search for potential pathological mutations in your human full mtDNA sequence  
+Author: Edvard Ehler, PhD (edvard.ehler@img.cas.cz)  
+Year: 2020  
 
 ---------------------------
 This tool will search for the (potential) pathological mutations in you mtDNA samples. To get the right input format, please, use the Haplogrep 2 (https://haplogrep.i-med.ac.at/app/index.html) tool to turn your sequences (fastas) into HSD format file. Haplogrep can be also downloaded and run localy (https://github.com/seppinho/haplogrep-cmd). Pathological mtDNA mutations are taken from data published at https://www.mitomap.org/MITOMAP.
@@ -22,3 +24,8 @@ HSD format is a simple, tab delimited text file with 4 or more columns. Here are
 
         sample_name   allele1,disease1,status1;allele2,disease2,status2;allele3,disease3,status3;...
 
+
+We invite you to check our **Ancient mtDNA Database** at: https://amtdb.org/
+
+If you use this tool in you research, please, consider citing our article:
+Ehler E, Novotný J, Juras A, Chyleński M, Moravčík O, Pačes J. AmtDB: a database of ancient human mitochondrial genomes. Nucleic acids research. 2019 Jan 8;47(D1):D29-32. https://academic.oup.com/nar/article-abstract/47/D1/D29/5106144
