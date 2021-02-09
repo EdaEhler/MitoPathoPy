@@ -27,7 +27,7 @@ You will need just Python 3.6 (and up) with installed Pandas (v. 1.0.3 and up sh
         sample_name   allele1,disease1,status1;allele2,disease2,status2;allele3,disease3,status3;...
 
 
-We invite you to check our **Ancient mtDNA Database** at: https://amtdb.org/
+We also invite you to check our **Ancient mtDNA Database** where you will find sequencies, metadata and also the pathologies of ancient human mtDNA samples at: https://amtdb.org/.
 
-If you use this tool in you research, please, consider citing our article:
-Ehler E, Novotný J, Juras A, Chyleński M, Moravčík O, Pačes J. AmtDB: a database of ancient human mitochondrial genomes. Nucleic acids research. 2019 Jan 8;47(D1):D29-32. https://academic.oup.com/nar/article-abstract/47/D1/D29/5106144
+If you use this tool in you research, please, consider **citing** our article:  
+*Ehler E, Novotný J, Juras A, Chyleński M, Moravčík O, Pačes J. AmtDB: a database of ancient human mitochondrial genomes. Nucleic acids research. 2019 Jan 8;47(D1):D29-32.* https://academic.oup.com/nar/article-abstract/47/D1/D29/5106144
