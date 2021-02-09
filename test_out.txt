@@ -1,0 +1,120 @@
+Africa01	146C,Absence of Endometriosis,Reported;185A,Low VO2max response,Reported;16129A,Cyclic Vomiting Syndrome with Migraine,Reported;16189C,Diabetes / Cardiomyopathy /cancer risk / mtDNA copy nbr / Metabolic Syndrome / Melanoma patients,Reported
+Africa02	150T,Longevity / Cervical Carcinoma / HPV infection risk,Conflicting reports;195C,BD-associated / melanoma pts,Reported;16183C,Melanoma patients,Reported;16189C,Diabetes / Cardiomyopathy /cancer risk / mtDNA copy nbr / Metabolic Syndrome / Melanoma patients,Reported
+Africa03	146C,Absence of Endometriosis,Reported;150T,Longevity / Cervical Carcinoma / HPV infection risk,Conflicting reports;195C,BD-associated / melanoma pts,Reported;16093C,Cyclic Vomiting Syndrome,Reported;16129A,Cyclic Vomiting Syndrome with Migraine,Reported;16189C,Diabetes / Cardiomyopathy /cancer risk / mtDNA copy nbr / Metabolic Syndrome / Melanoma patients,Reported;16300G,BD-associated,Reported;16390A,POAG - potential for association,Reported
+Africa04	150T,Longevity / Cervical Carcinoma / HPV infection risk,Conflicting reports;195C,BD-associated / melanoma pts,Reported
+Africa05	185A,Low VO2max response,Reported;16129A,Cyclic Vomiting Syndrome with Migraine,Reported;16189C,Diabetes / Cardiomyopathy /cancer risk / mtDNA copy nbr / Metabolic Syndrome / Melanoma patients,Reported
+Africa06	
+Africa07	16129A,Cyclic Vomiting Syndrome with Migraine,Reported
+Africa08	150T,Longevity / Cervical Carcinoma / HPV infection risk,Conflicting reports;195C,BD-associated / melanoma pts,Reported
+Africa09	146C,Absence of Endometriosis,Reported
+Africa10	146C,Absence of Endometriosis,Reported;195C,BD-associated / melanoma pts,Reported;16183C,Melanoma patients,Reported;16189C,Diabetes / Cardiomyopathy /cancer risk / mtDNA copy nbr / Metabolic Syndrome / Melanoma patients,Reported
+Africa11	195C,BD-associated / melanoma pts,Reported;16093C,Cyclic Vomiting Syndrome,Reported;16189C,Diabetes / Cardiomyopathy /cancer risk / mtDNA copy nbr / Metabolic Syndrome / Melanoma patients,Reported;16270T,Melanoma patients,Reported
+Africa12	185A,Low VO2max response,Reported;16129A,Cyclic Vomiting Syndrome with Migraine,Reported;16189C,Diabetes / Cardiomyopathy /cancer risk / mtDNA copy nbr / Metabolic Syndrome / Melanoma patients,Reported
+Africa13	195C,BD-associated / melanoma pts,Reported;2352C,Possibly LVNC-associated,Reported;3308C,MELAS / DEAF enhancer / hypertension / LVNC / putative LHON,P.M.-possibly synergistic;5655C,DEAF enhancer / Hypertension risk,Reported;10398G,PD protective factor / longevity / altered cell pH / metabolic syndrome / breast cancer risk / Leigh Syndrome risk / ADHD / cognitive decline / SCA2 age of onset / Fuchs endothelial corneal dystrophy,Reported / lineage L & M marker / also hg IJK;11150A,Found in a Multiple Sclerosis patient,Reported;12705T,Possible protective factor for normal tension glaucoma,Reported;16189C,Diabetes / Cardiomyopathy /cancer risk / mtDNA copy nbr / Metabolic Syndrome / Melanoma patients,Reported;16270T,Melanoma patients,Reported
+Africa14	195C,BD-associated / melanoma pts,Reported;10398G,PD protective factor / longevity / altered cell pH / metabolic syndrome / breast cancer risk / Leigh Syndrome risk / ADHD / cognitive decline / SCA2 age of onset / Fuchs endothelial corneal dystrophy,Reported / lineage L & M marker / also hg IJK;12236A,DEAF,Reported;12705T,Possible protective factor for normal tension glaucoma,Reported;14668T,Depressive Disorder associated,Reported;16129A,Cyclic Vomiting Syndrome with Migraine,Reported;16183C,Melanoma patients,Reported;16189C,Diabetes / Cardiomyopathy /cancer risk / mtDNA copy nbr / Metabolic Syndrome / Melanoma patients,Reported
+Africa15	185A,Low VO2max response,Reported;5460A,AD / PD / LHON,Conflicting reports;5911T,Prostate Cancer,Reported;10398G,PD protective factor / longevity / altered cell pH / metabolic syndrome / breast cancer risk / Leigh Syndrome risk / ADHD / cognitive decline / SCA2 age of onset / Fuchs endothelial corneal dystrophy,Reported / lineage L & M marker / also hg IJK;12705T,Possible protective factor for normal tension glaucoma,Reported;13276G,MIDD+retinopathy,Conflicting reports;16129A,Cyclic Vomiting Syndrome with Migraine,Reported;16189C,Diabetes / Cardiomyopathy /cancer risk / mtDNA copy nbr / Metabolic Syndrome / Melanoma patients,Reported
+Asia01	489C,Low VO2max response,Reported;4883T,Glaucoma,Conflicting reports;8414T,Increased risk of T2DM and high altitude polycythemia (HAPC) in haplogroup D4 / Longevity,Reported
+Asia02	489C,Low VO2max response,Reported;4833G,Diabetes helper mutation AD / PD,Reported;16183C,Melanoma patients,Reported;16189C,Diabetes / Cardiomyopathy /cancer risk / mtDNA copy nbr / Metabolic Syndrome / Melanoma patients,Reported
+Asia03	16129A,Cyclic Vomiting Syndrome with Migraine,Reported;16183C,Melanoma patients,Reported;16189C,Diabetes / Cardiomyopathy /cancer risk / mtDNA copy nbr / Metabolic Syndrome / Melanoma patients,Reported;16217C,Endometriosis,Reported
+Asia04	16129A,Cyclic Vomiting Syndrome with Migraine,Reported
+Asia05	150T,Longevity / Cervical Carcinoma / HPV infection risk,Conflicting reports;489C,Low VO2max response,Reported;16129A,Cyclic Vomiting Syndrome with Migraine,Reported;16192T,Melanoma patients,Reported
+Asia06	16129A,Cyclic Vomiting Syndrome with Migraine,Reported
+Asia07	489C,Low VO2max response,Reported;4833G,Diabetes helper mutation AD / PD,Reported
+Asia08	489C,Low VO2max response,Reported;3552A,Resistance to high altitude pulmonary edema (HAPE),Reported /hg C marker;5821A,DEAF helper mut.,Reported
+Asia09	146C,Absence of Endometriosis,Reported;16093C,Cyclic Vomiting Syndrome,Reported;16183C,Melanoma patients,Reported;16189C,Diabetes / Cardiomyopathy /cancer risk / mtDNA copy nbr / Metabolic Syndrome / Melanoma patients,Reported;16217C,Endometriosis,Reported
+Asia10	12705T,Possible protective factor for normal tension glaucoma,Reported
+Asia11	12338C,DEAF1555 increased penetrance / LHON,Conflicting reports
+Asia12	16129A,Cyclic Vomiting Syndrome with Migraine,Reported
+Asia13	12705T,Possible protective factor for normal tension glaucoma,Reported;16093C,Cyclic Vomiting Syndrome,Reported;16129A,Cyclic Vomiting Syndrome with Migraine,Reported
+Asia14	489C,Low VO2max response,Reported;4833G,Diabetes helper mutation AD / PD,Reported
+Asia15	150T,Longevity / Cervical Carcinoma / HPV infection risk,Conflicting reports;489C,Low VO2max response,Reported
+Asia16	16192T,Melanoma patients,Reported;16390A,POAG - potential for association,Reported
+Asia17	
+Asia18	
+Asia19	150T,Longevity / Cervical Carcinoma / HPV infection risk,Conflicting reports;310C,Possible protective factor for normal tension glaucoma,Reported;499A,Endometriosis,Reported;16183C,Melanoma patients,Reported;16189C,Diabetes / Cardiomyopathy /cancer risk / mtDNA copy nbr / Metabolic Syndrome / Melanoma patients,Reported;16217C,Endometriosis,Reported;16270T,Melanoma patients,Reported
+Asia20	16129A,Cyclic Vomiting Syndrome with Migraine,Reported
+Asia21	489C,Low VO2max response,Reported;4883T,Glaucoma,Conflicting reports;8414T,Increased risk of T2DM and high altitude polycythemia (HAPC) in haplogroup D4 / Longevity,Reported;16129A,Cyclic Vomiting Syndrome with Migraine,Reported
+Asia22	150T,Longevity / Cervical Carcinoma / HPV infection risk,Conflicting reports;489C,Low VO2max response,Reported;4883T,Glaucoma,Conflicting reports;10397G,Low VO2max response,Reported;16183C,Melanoma patients,Reported;16189C,Diabetes / Cardiomyopathy /cancer risk / mtDNA copy nbr / Metabolic Syndrome / Melanoma patients,Reported
+Asia23	16183C,Melanoma patients,Reported;16189C,Diabetes / Cardiomyopathy /cancer risk / mtDNA copy nbr / Metabolic Syndrome / Melanoma patients,Reported
+Asia24	150T,Longevity / Cervical Carcinoma / HPV infection risk,Conflicting reports;489C,Low VO2max response,Reported;4883T,Glaucoma,Conflicting reports;10397G,Low VO2max response,Reported;16183C,Melanoma patients,Reported;16189C,Diabetes / Cardiomyopathy /cancer risk / mtDNA copy nbr / Metabolic Syndrome / Melanoma patients,Reported
+Asia25	16183C,Melanoma patients,Reported;16189C,Diabetes / Cardiomyopathy /cancer risk / mtDNA copy nbr / Metabolic Syndrome / Melanoma patients,Reported;16217C,Endometriosis,Reported
+Asia26	10398G,PD protective factor / longevity / altered cell pH / metabolic syndrome / breast cancer risk / Leigh Syndrome risk / ADHD / cognitive decline / SCA2 age of onset / Fuchs endothelial corneal dystrophy,Reported / lineage L & M marker / also hg IJK;16183C,Melanoma patients,Reported;16189C,Diabetes / Cardiomyopathy /cancer risk / mtDNA copy nbr / Metabolic Syndrome / Melanoma patients,Reported
+Asia27	150T,Longevity / Cervical Carcinoma / HPV infection risk,Conflicting reports;195C,BD-associated / melanoma pts,Reported;16183C,Melanoma patients,Reported;16189C,Diabetes / Cardiomyopathy /cancer risk / mtDNA copy nbr / Metabolic Syndrome / Melanoma patients,Reported;16217C,Endometriosis,Reported
+Asia28	16183C,Melanoma patients,Reported;16189C,Diabetes / Cardiomyopathy /cancer risk / mtDNA copy nbr / Metabolic Syndrome / Melanoma patients,Reported;16217C,Endometriosis,Reported
+Asia29	12705T,Possible protective factor for normal tension glaucoma,Reported
+Asia30	499A,Endometriosis,Reported;16183C,Melanoma patients,Reported;16189C,Diabetes / Cardiomyopathy /cancer risk / mtDNA copy nbr / Metabolic Syndrome / Melanoma patients,Reported;16217C,Endometriosis,Reported
+Asia31	489C,Low VO2max response,Reported
+Asia32	150T,Longevity / Cervical Carcinoma / HPV infection risk,Conflicting reports;185A,Low VO2max response,Reported;16129A,Cyclic Vomiting Syndrome with Migraine,Reported;16183C,Melanoma patients,Reported;16189C,Diabetes / Cardiomyopathy /cancer risk / mtDNA copy nbr / Metabolic Syndrome / Melanoma patients,Reported
+Asia33	146C,Absence of Endometriosis,Reported;663G,Coronary atherosclerosis risk,Reported;8794T,Exercise Endurance / Coronary Atherosclerosis risk,Reported;12280G,Hypertension,Reported;12705T,Possible protective factor for normal tension glaucoma,Reported;15924G,LIMM,Reported;16129A,Cyclic Vomiting Syndrome with Migraine,Reported
+Asia34	499A,Endometriosis,Reported;827G,DEAF,Conflicting reports;16183C,Melanoma patients,Reported;16189C,Diabetes / Cardiomyopathy /cancer risk / mtDNA copy nbr / Metabolic Syndrome / Melanoma patients,Reported;16217C,Endometriosis,Reported
+Asia35	146C,Absence of Endometriosis,Reported;489C,Low VO2max response,Reported
+Asia36	499A,Endometriosis,Reported;16183C,Melanoma patients,Reported;16189C,Diabetes / Cardiomyopathy /cancer risk / mtDNA copy nbr / Metabolic Syndrome / Melanoma patients,Reported;16217C,Endometriosis,Reported
+Asia37	16183C,Melanoma patients,Reported;16189C,Diabetes / Cardiomyopathy /cancer risk / mtDNA copy nbr / Metabolic Syndrome / Melanoma patients,Reported
+Asia38	195C,BD-associated / melanoma pts,Reported;489C,Low VO2max response,Reported;16129A,Cyclic Vomiting Syndrome with Migraine,Reported
+Asia39	489C,Low VO2max response,Reported;4883T,Glaucoma,Conflicting reports;8414T,Increased risk of T2DM and high altitude polycythemia (HAPC) in haplogroup D4 / Longevity,Reported;16192T,Melanoma patients,Reported
+Asia40	16129A,Cyclic Vomiting Syndrome with Migraine,Reported;16183C,Melanoma patients,Reported;16189C,Diabetes / Cardiomyopathy /cancer risk / mtDNA copy nbr / Metabolic Syndrome / Melanoma patients,Reported
+Asia41	489C,Low VO2max response,Reported;4833G,Diabetes helper mutation AD / PD,Reported
+Asia42	146C,Absence of Endometriosis,Reported;12705T,Possible protective factor for normal tension glaucoma,Reported
+Asia43	489C,Low VO2max response,Reported;4883T,Glaucoma,Conflicting reports;8414T,Increased risk of T2DM and high altitude polycythemia (HAPC) in haplogroup D4 / Longevity,Reported;16093C,Cyclic Vomiting Syndrome,Reported
+Asia44	195C,BD-associated / melanoma pts,Reported;310C,Possible protective factor for normal tension glaucoma,Reported;16183C,Melanoma patients,Reported;16189C,Diabetes / Cardiomyopathy /cancer risk / mtDNA copy nbr / Metabolic Syndrome / Melanoma patients,Reported;16217C,Endometriosis,Reported
+Asia45	310C,Possible protective factor for normal tension glaucoma,Reported;16183C,Melanoma patients,Reported;16189C,Diabetes / Cardiomyopathy /cancer risk / mtDNA copy nbr / Metabolic Syndrome / Melanoma patients,Reported;16217C,Endometriosis,Reported
+Europe02	16192T,Melanoma patients,Reported;16270T,Melanoma patients,Reported
+Europe03	150T,Longevity / Cervical Carcinoma / HPV infection risk,Conflicting reports;16390A,POAG - potential for association,Reported
+Europe04	16129A,Cyclic Vomiting Syndrome with Migraine,Reported
+Europe05	195C,BD-associated / melanoma pts,Reported;16189C,Diabetes / Cardiomyopathy /cancer risk / mtDNA copy nbr / Metabolic Syndrome / Melanoma patients,Reported
+Europe06	146C,Absence of Endometriosis,Reported
+Europe07	195C,BD-associated / melanoma pts,Reported;499A,Endometriosis,Reported
+Europe08	150T,Longevity / Cervical Carcinoma / HPV infection risk,Conflicting reports;16189C,Diabetes / Cardiomyopathy /cancer risk / mtDNA copy nbr / Metabolic Syndrome / Melanoma patients,Reported;16192T,Melanoma patients,Reported;16270T,Melanoma patients,Reported
+Europe09	489C,Low VO2max response,Reported;16093C,Cyclic Vomiting Syndrome,Reported
+Europe1	
+Europe10	
+Europe11	146C,Absence of Endometriosis,Reported;195C,BD-associated / melanoma pts,Reported
+Europe12	
+Europe13	
+Europe14	
+Europe15	295T,Low VO2max response,Reported
+Europe16	16129A,Cyclic Vomiting Syndrome with Migraine,Reported;16189C,Diabetes / Cardiomyopathy /cancer risk / mtDNA copy nbr / Metabolic Syndrome / Melanoma patients,Reported
+Europe17	3010A,Cyclic Vomiting Syndrome with Migraine / high altitude disease risk factor,Reported
+Europe18	
+Europe19	16192T,Melanoma patients,Reported
+Europe20	
+Europe21	
+Europe22	3010A,Cyclic Vomiting Syndrome with Migraine / high altitude disease risk factor,Reported;16093C,Cyclic Vomiting Syndrome,Reported;16390A,POAG - potential for association,Reported
+Europe23	3010A,Cyclic Vomiting Syndrome with Migraine / high altitude disease risk factor,Reported
+Europe24	
+Europe25	
+Europe26	
+Europe27	
+Europe28	16129A,Cyclic Vomiting Syndrome with Migraine,Reported
+Europe29	3010A,Cyclic Vomiting Syndrome with Migraine / high altitude disease risk factor,Reported
+Europe30	6253C,Prostate Cancer / enriched in POAG cohort,Reported
+Europe31	146C,Absence of Endometriosis,Reported;195C,BD-associated / melanoma pts,Reported
+Europe32	
+Europe33	
+Europe34	16189C,Diabetes / Cardiomyopathy /cancer risk / mtDNA copy nbr / Metabolic Syndrome / Melanoma patients,Reported
+Europe35	16183C,Melanoma patients,Reported;16189C,Diabetes / Cardiomyopathy /cancer risk / mtDNA copy nbr / Metabolic Syndrome / Melanoma patients,Reported
+Europe36	
+Europe37	3010A,Cyclic Vomiting Syndrome with Migraine / high altitude disease risk factor,Reported;16189C,Diabetes / Cardiomyopathy /cancer risk / mtDNA copy nbr / Metabolic Syndrome / Melanoma patients,Reported
+Europe38	16093C,Cyclic Vomiting Syndrome,Reported
+Europe39	16192T,Melanoma patients,Reported;16270T,Melanoma patients,Reported
+Europe40	146C,Absence of Endometriosis,Reported
+Europe41	
+Europe42	295T,Low VO2max response,Reported;462T,Low VO2max response,Reported;489C,Low VO2max response,Reported
+Europe43	146C,Absence of Endometriosis,Reported
+Europe44	
+Europe45	185A,Low VO2max response,Reported;228A,Low VO2max response,Reported;295T,Low VO2max response,Reported;462T,Low VO2max response,Reported;489C,Low VO2max response,Reported
+Europe46	150T,Longevity / Cervical Carcinoma / HPV infection risk,Conflicting reports;16189C,Diabetes / Cardiomyopathy /cancer risk / mtDNA copy nbr / Metabolic Syndrome / Melanoma patients,Reported;16192T,Melanoma patients,Reported;16270T,Melanoma patients,Reported
+Europe47	16093C,Cyclic Vomiting Syndrome,Reported
+Europe48	146C,Absence of Endometriosis,Reported;195C,BD-associated / melanoma pts,Reported
+Europe49	
+Europe50	16129A,Cyclic Vomiting Syndrome with Migraine,Reported
+Europe51	150T,Longevity / Cervical Carcinoma / HPV infection risk,Conflicting reports;295T,Low VO2max response,Reported;489C,Low VO2max response,Reported
+Europe52	16129A,Cyclic Vomiting Syndrome with Migraine,Reported
+Europe53	150T,Longevity / Cervical Carcinoma / HPV infection risk,Conflicting reports;195C,BD-associated / melanoma pts,Reported;295T,Low VO2max response,Reported;489C,Low VO2max response,Reported
+Europe54	185A,Low VO2max response,Reported;228A,Low VO2max response,Reported;295T,Low VO2max response,Reported;462T,Low VO2max response,Reported;489C,Low VO2max response,Reported
+Europe55	195C,BD-associated / melanoma pts,Reported;16129A,Cyclic Vomiting Syndrome with Migraine,Reported;16189C,Diabetes / Cardiomyopathy /cancer risk / mtDNA copy nbr / Metabolic Syndrome / Melanoma patients,Reported
+Europe56	16183C,Melanoma patients,Reported;16189C,Diabetes / Cardiomyopathy /cancer risk / mtDNA copy nbr / Metabolic Syndrome / Melanoma patients,Reported
+Europe57	195C,BD-associated / melanoma pts,Reported;5460A,AD / PD / LHON,Conflicting reports;12705T,Possible protective factor for normal tension glaucoma,Reported;13831A,Thyroid Cancer Cell Line,Reported
+Europe58	9055A,PD protective factor,Reported;10398G,PD protective factor / longevity / altered cell pH / metabolic syndrome / breast cancer risk / Leigh Syndrome risk / ADHD / cognitive decline / SCA2 age of onset / Fuchs endothelial corneal dystrophy,Reported / lineage L & M marker / also hg IJK;11467G,Altered brain pH / sCJD patients,Reported;12308G,CPEO / Stroke / CM / Breast & Renal & Prostate Cancer Risk / Altered brain pH /sCJD,Reported;12372A,Altered brain pH / sCJD patients,Reported;16093C,Cyclic Vomiting Syndrome,Reported
+Europe59	146C,Absence of Endometriosis,Reported;9055A,PD protective factor,Reported;11467G,Altered brain pH / sCJD patients,Reported;12308G,CPEO / Stroke / CM / Breast & Renal & Prostate Cancer Risk / Altered brain pH /sCJD,Reported;12372A,Altered brain pH / sCJD patients,Reported
+Europe60	150T,Longevity / Cervical Carcinoma / HPV infection risk,Conflicting reports;228A,Low VO2max response,Reported;11467G,Altered brain pH / sCJD patients,Reported;12308G,CPEO / Stroke / CM / Breast & Renal & Prostate Cancer Risk / Altered brain pH /sCJD,Reported;12372A,Altered brain pH / sCJD patients,Reported;15043A,MDD-associated,Reported;16192T,Melanoma patients,Reported;16270T,Melanoma patients,Reported
