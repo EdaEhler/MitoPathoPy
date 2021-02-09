@@ -19,7 +19,9 @@ HSD format is a simple, tab delimited text file with 4 or more columns. Here are
 
 ### Workflow
 1. Prepare your samples into HSD format.
-2. With `mitopatho.py` and `mitopatho_db_v1.pickle` in you directory run: `mitopatho.py -i your_input.hsd -o output.txt`
+2. With `mitopatho.py` and `mitopatho_db_v1.pickle` in you directory run:  
+`mitopatho.py -i your_input.hsd -o output.txt` or potentialy `python mitopatho.py -i your_input.hsd -o output.txt`  
+You will need just Python 3.6 (and up) with installed Pandas (v. 1.0.3 and up should work).
 3. The output file is tab separated file, one line per sample, following format:
 
         sample_name   allele1,disease1,status1;allele2,disease2,status2;allele3,disease3,status3;...
