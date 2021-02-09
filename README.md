@@ -1,5 +1,5 @@
 # MitoPathoPy
-Search for potential pathological mutations in your human full mtDNA sequence  
+Search for potential pathological mutations in your human mtDNA sequence  
 Author: Edvard Ehler, PhD (edvard.ehler@img.cas.cz)  
 Year: 2020  
 
